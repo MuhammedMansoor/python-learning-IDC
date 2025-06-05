@@ -33,7 +33,22 @@ The file contains all the learning and project details for 30 day Challenge.
   4. Adding another item after taking inputs from user
   5. Changing the Qty of Pump to 9
   6. After issuing some Quantity updating reducing that value from Stock
-  7. deleting any value  
+  7. deleting any value
+ 
+**DAY 4**  
+* Learnings
+  1. If: for conditional statements
+  2. Different operators
+  3. For loop : Sequence driven itertaive, best for list or for rnage of values
+  4. While loop: Condition driven iterative, best for one condition
+  5. Python uses else for itertaive functions combined with if
+  6. Break: break the loop if condition is false
+  7. Continue: Continue to next itertaion if condition is false  
+ * Tasks Completed
+   1. Checked for odd or even
+   2. Calculated sum of expense in a list
+   3. Vending machine
+   4. Checked for prime number
 
 
            
